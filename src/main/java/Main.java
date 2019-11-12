@@ -12,6 +12,7 @@ public class Main {
         obj.put("is_vip", new Boolean(true));
 
         System.out.print(obj);
+        System.out.println(obj.toString());
 
     }
 
